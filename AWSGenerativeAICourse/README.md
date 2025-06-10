@@ -53,8 +53,11 @@ By the end of this course you will be able to do the following:
 
 ## How generative Al differs from traditional AI
 <br>
+
 ![image](https://github.com/user-attachments/assets/1eb73366-60b3-4447-b232-bd277207368c)
 
+* Generative AI is a `subset` of machine learning.
+  
 ### Traditional ML vs Generative AI
 
 | Feature                            | Traditional ML                                               | Generative AI                                                     |
@@ -66,22 +69,136 @@ By the end of this course you will be able to do the following:
 
 
 ## Foundation models
+- At the core of every AI model, there is a foundation model or a classic model that are powerful machine learning model differentiated on their ability to be pre-trained on some predefined on vast amount of data in order to perform a wide amount of downstream tasks.
+- These tasks include text generation, data summarization, information extraction, question and answer responses and chatbot interactions. 
+
+
 ## Comparisons of traditional and foundational models
+
+![image](https://github.com/user-attachments/assets/30448445-2f9e-459b-8811-0225333f02b5)
+
+
+
+
 ## Prompt engineering
+
+![image](https://github.com/user-attachments/assets/d4da616b-4686-4581-ae2e-98771f9dfafa)
+
+
+
 ## How prompt engineering works
+
+![image](https://github.com/user-attachments/assets/4d743ff7-6bd5-4026-a09f-4fa574dccbd1)
+
+
+
+
 ## Prompt engineering IT example
+
+![image](https://github.com/user-attachments/assets/56045820-3cea-447f-a3a8-893d5ec57ca2)
+<br><br>
+![image](https://github.com/user-attachments/assets/8b3d6fcc-97ee-4efd-bda0-dab8e0680f7f)
+
+
+
+
 ## Foundation model types
+![image](https://github.com/user-attachments/assets/d1d2d6bd-8691-4703-8616-d6936bda9036)
+
+### Text-to-text
+Text-to-text foundation models (FMs) are built for natural language processing tasks that are developed by the ML research community, startups, and established companies. Many organizations have had a chance to experiment with generative large language models (LLMs) that can do things like summarize text, extract information, respond to questions, and create content. These models take a user's input text and extend it with new, generated text (for example, sentence auto-completion).
+
+![image](https://github.com/user-attachments/assets/d1a9a1a6-c9ab-44ff-84a2-603e9d6e66e3)
+
+### Text-to-embeddings 
+Text-to-embeddings FMs are another type of LLM that can compare pieces of text (inputs), like what a user types into a search bar with indexed data, and makes a connection between the two. Amazon's product search uses this type of LLM to compare a user's ask with catalog data and present the user with more accurate and relevant results.
+
+![image](https://github.com/user-attachments/assets/6bedb71b-6bbe-44ae-a5f2-d732a7836e09)
+
+### Multimodal 
+Multimodel FMs can understand and generate different formats, such as text and images. These types of FMs can generate images based on natural language prompts. An example of this is Stable Diffusion.
+
+![image](https://github.com/user-attachments/assets/86f3bfbf-d747-4c42-9fde-6cfe1b1894ce)
+
+
+
 ## Generative Al use cases
+
+![image](https://github.com/user-attachments/assets/14de1bed-e7dc-4953-b4aa-8fdfa473d945)
+
+### Enhance Customer Experiences
+- **Chatbots and virtual assistants**
+  - Streamline customer self-service processes and reduce operational costs by automating responses for customer service queries through generative Al-powered chatbots, voice bots, and virtual assistants.
+- **Agent assist and call analytics**
+  - Concisely summarize customer conversations to reduce the time that agents and supervisors spend taking and reviewing notes or sharing context when transferring contacts. Analyze customer interactions to derive insights and monitor agent performance.
+- **Personalization**
+  - Deliver better personalized experiences and increase customer engagement with personalized offerings and communications.
+
+
+
 ## Generative Al industry use cases
+
+
+
+
+
 ## Generative Al use cases: Healthcare
+
+
+
+
+
 ## Generative Al use cases: Life sciences
+
+
+
+
 ## Generative Al use cases: Financial services
+
+
+
+
+
 ## Generative Al use cases: Manufacturing
+
+
+
+
+
+
 ## Generative Al use cases: Retail
+
+
+
+
+
 ## Generative Al use cases: Media and entertainment
+
+
+
+
+
+
 ## Benefits of using AWS for your generative Al solutions
+
+
+
+
+
+
 ## AWS generative Al services
+
+
+
+
+
+
 ## Additional resources
+
+
+
+
+
 ## Summary
 
 
