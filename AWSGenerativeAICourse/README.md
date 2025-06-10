@@ -75,7 +75,8 @@ By the end of this course you will be able to do the following:
 
 ## Comparisons of traditional and foundational models
 
-![image](https://github.com/user-attachments/assets/30448445-2f9e-459b-8811-0225333f02b5)
+![image](https://github.com/user-attachments/assets/591325ce-9d72-470c-8d4d-b790f533de29)
+
 
 
 
