@@ -1,4 +1,3 @@
-0. Objective
 1. Welcome
 2. Machine learning's new path
 3. Course objectives
@@ -23,4 +22,30 @@
 22. Additional resources
 23. Summary
 24. Thankyou
+
+
+## Welcome
+
+By the end of this course you will be able to do the following:
+- Define generative artificial intelligence (AI).
+- Describe foundation models.
+- Discuss use cases for generative AI.
+- Identify the features and benefits of AWS generative AI services.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
