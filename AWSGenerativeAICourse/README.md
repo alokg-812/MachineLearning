@@ -135,11 +135,38 @@ Multimodel FMs can understand and generate different formats, such as text and i
 - **Personalization**
   - Deliver better personalized experiences and increase customer engagement with personalized offerings and communications.
 
+### Boost employee productivity
+- **Conversational search**
+  - Improve employee productivity by quickly and easily finding accurate information and summarizing content through a conversational interface.
+- **Code generation**
+  - Accelerate application development with code suggestions based on the developer's comments and code.
+- **Automated report generation**
+  - Generative Al can be used to automatically generate financial reports, summaries, and projections, saving time and reducing errors.
 
+### Optimize processes
+- **Intelligent document processing**
+  - Improve business operations by automatically extracting and summarizing data from documents and insights through generative Al-powered question and answering.
+- **Data augmentation**
+  - Generate synthetic data to train ML models when the original dataset is small, imbalanced or sensitive.
+- **Supply chain optimization**
+  - Improve logistics and reduce costs by evaluating and optimizing different supply chain scenarios.
+
+### Enhance creativity and content creation
+- **Al-generated marketing content**
+  - Create engaging marketing content, such as blog posts, social media updates, or email newsletters, saving time and resources.
+- **Al-generated sales content, guidance, and enablement**
+  - Generate personalized emails and messages based on a prospect's profile and behavior, improving response rates. Generate sales scripts based on the customer's segment, industry, and the product or service.
+- **New product development**
+  - Generate multiple design prototypes based on certain inputs and constraints, speeding up the ideation phase, or optimize existing designs based on user feedback and specified constraints.
 
 ## Generative Al industry use cases
 
-
+1. Healthcare
+2. Life sciences
+3. Financial services
+4. Manufacturing
+5. Retail
+6. Media and entertainment
 
 
 
