@@ -9,3 +9,5 @@
 2. Categorical
   - gender
   - nation
+
+![pl_vs_ml](image.png)
